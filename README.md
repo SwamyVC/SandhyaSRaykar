@@ -1,18 +1,110 @@
-## Hi👋,I'M Sandhya S Raykar
-a passionate developer from India
+# Hi, I'm Sandhya S Raykar 👋
 
+### Information Science & Engineering Student | Python | Machine Learning | AI | Software Development
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandhya-s-606723376/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandhyasraykar@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=flat&logo=CrateDB&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SandhyaSRaykar&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=SandhyaSRaykar&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SandhyaSRaykar&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I am an Information Science and Engineering student interested in software development, Artificial Intelligence, Machine Learning, and problem-solving. I enjoy developing practical applications and exploring technologies to solve real-world problems.
 
 ---
-[![](https://komarev.com/ghpvc/?username=SandhyaSRaykar&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 👩‍💻 About Me
 
+- 🎓 Pursuing B.E. in Information Science and Engineering.
+- 💼 Machine Learning Intern at CodeAlpha.
+- 🐍 Interested in Python programming and Machine Learning.
+- 🤖 Exploring AI-driven applications and Deep Learning.
+- 🌐 Familiar with web development technologies.
+- 🌱 Continuously improving my technical and problem-solving skills.
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
+- Python
+- Java
+- JavaScript
+
+**Web Technologies**
+- HTML
+- CSS
+
+**Database**
+- MySQL
+
+**Tools & Platforms**
+- Git
+- GitHub
+- VS Code
+
+**Core Computer Science Subjects**
+- Data Structures
+- Database Management Systems (DBMS)
+- Operating Systems
+- Computer Networks
+
+**Operating Systems**
+- Windows
+- Linux (Basics)
+
+---
+
+## 💼 Internship Experience
+
+### Machine Learning Intern – CodeAlpha
+
+- Worked on machine learning model development and data preparation.
+- Gained experience in data cleaning, feature preparation, and model evaluation.
+- Collaborated with a four-member team, assisted teammates with Python-related issues, and participated in debugging.
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Credit Scoring Model
+**Python | Machine Learning**
+
+A machine learning project that predicts an individual's creditworthiness using historical financial data.
+
+🔗 [View Repository](https://github.com/SandhyaSRaykar/CodeAlpha_Credit-Scoring-Model)
+
+### 2. Emotion Recognition from Speech
+**Python | Deep Learning | CNN**
+
+A speech emotion recognition project that uses deep learning and CNN techniques to identify emotions from speech.
+
+🔗 [View Repository](https://github.com/SandhyaSRaykar/CodeAlpha_Emotion-Recognition-from-Speech)
+
+### 3. Handwritten Character Recognition
+**Python | Machine Learning | CNN**
+
+A Python-based project for recognizing handwritten characters using machine learning and image processing.
+
+🔗 [View Repository](https://github.com/SandhyaSRaykar/CodeAlpha_Handwritten-Character-Recognition)
+
+---
+
+## 💡 Other Projects
+
+- **Safe Pay AI:** AI-powered UPI fraud detection system.
+- **Autonomous Voice Agents:** Voice-based conversational application using speech recognition and NLP.
+- **KrishiMove:** Agricultural machinery sharing platform.
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandhyaSRaykar&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandhyaSRaykar&layout=compact&theme=default&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Sandhya S Raykar](https://www.linkedin.com/in/sandhya-s-606723376/)
+- 💻 GitHub: [SandhyaSRaykar](https://github.com/SandhyaSRaykar)
+- 📧 Email: [sandhyasraykar@gmail.com](mailto:sandhyasraykar@gmail.com)
+
+---
+
+⭐ *Learning, building, and growing every day.*
